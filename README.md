@@ -16,7 +16,6 @@ Creating the database:
 To use our application, source in the following files using the following commands:
 
 source setup.sql;
-
 source load-data.sql; (please make sure to obtain the data at link-to-data.txt and place it in the same directory as the rest of your files)
 
 source grant-permissions.sql;
